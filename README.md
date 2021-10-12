@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AveyardS
-- 👀 I’m interested in network analysis and visualisation
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on anything really, looking to learn
+- 👀 I’m interested in data analysis and visualisation
+- 🌱 I’m currently learning R, JavaScript, and Python
 - 📫 How to reach me: here
 
 <!---
